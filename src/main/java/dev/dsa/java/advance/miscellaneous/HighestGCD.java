@@ -1,8 +1,6 @@
-package dev.dsa.java.advance;
+package dev.dsa.java.advance.miscellaneous;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 
 public class HighestGCD {
 

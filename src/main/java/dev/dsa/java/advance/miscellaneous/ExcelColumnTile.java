@@ -1,4 +1,4 @@
-package dev.dsa.java.advance;
+package dev.dsa.java.advance.miscellaneous;
 
 /*
 
